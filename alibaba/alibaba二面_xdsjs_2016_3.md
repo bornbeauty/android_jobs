@@ -1,0 +1,13 @@
+- 项目相关
+- 实习相关
+- Activity的启动模式(singleInstance和singleTask的区别)
+- tcp和udp的区别(说了五六个才算完)
+- 01背包
+- topk
+- hashMap\hashTable\concurrentHashMap区别(最好结合源码)
+- 线程池
+- hook的实现方法(这个因为我提到了才问的)
+- 进程与线程
+- java和androi中的优化(和蘑菇街问的一模一样...)
+- 什么时候能实习
+- 问问题(我说我要问的问题一面时已经问完了...)
